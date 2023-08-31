@@ -1,2 +1,2 @@
-# CosmicChallenge
+# NASA Space Apps Challenge
 CosmicChallenge
